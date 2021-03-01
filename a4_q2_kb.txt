@@ -1,0 +1,36 @@
+anaemia <-- fatigue & shortness_of_breath & dizziness & headache & chest_pain
+malaria <-- fever & chills & headache & vomiting & fatigue
+covid_19 <-- fever & cough & fatigue
+flu <-- fever & cough & sore_throat & runny_nose & headache
+dengue <-- headache & muscle_pain & vomiting & rashes
+common_cold <-- runny_nose & sore_throat & sneezing & fever
+anxiety <-- restlessness & irritability & difficulty_contencrating & fast_heartbeat
+asthma <-- wheezing & shortness_of_breath & tight_chest & cough
+bladder_cancer <-- blood_in_urine & frequent_urination & burning_sensation_when_urinate
+breast_cancer <-- lump_in_breast & change_in_shape_of_breast & dimpling_breast_skin & rash_on_or_around_nipples
+bronchitis <-- sore_throat & headache & runny_nose & fatigue
+chest_infection <-- cough & Phlegm & shortness_of_breath & fever & chest_pain 
+chickenpox <-- red_rash_covering_all_body
+cervical_cancer <-- unusual_vaginal_bleeding
+chronic_kidney_disease <-- weight_loss & swollen_ankles & shortness_of_breath & vomiting & Muscle_cramps & insomnia
+cold_sore <-- swollen_gums & sore_throat & fever & vomiting & headache
+constipation <-- stomach_ache & feeling_bloated & feeling_sick & loss_of_appetite
+dehydration <-- dizziness & headache & fatigue & dry_mouth
+diabetes <-- feeling_very_thirsty & frequent_urination & fatigue & weight_loss & blurred_vision
+depression <-- feeling_hopeless & feeling_sad & lack_of_interest_in_anything
+diarrhoea <-- stomach_cramps & vomiting & headache & loss_of_appetite
+ebola_virus <-- fever & headache & muscle_pain & sore_throat & muscle_weakness
+eye_cancer <-- blurred_vision & buldging_eye & lump_on_eyelid & eye_pain
+gallstones <-- severe_abdominal_pain
+gum_disease <-- swollen_gums & gums_bleeding_after_brushing
+heart_failure <-- shortness_of_breath & fatigue & leg_swelling & loss_of_appetite
+hiv <-- fever & sore_throat & body_rash
+indigestion <-- feeling_uncomfortable & bloating & vomiting
+insomnia <-- trouble_sleeping
+kidney_stones <-- lower_back_ache & severe_abdominal_pain & vomiting
+kidney_infection <-- lower_back_ache & fever & loss_of_appetite & Diarrhoea & fatigue
+lung_cancer <-- cough & coughing_blood & shortness_of_breath & fatigue & chest_pain
+malnutrition <-- fatigue & frequently_getting_sick & Depression & difficulty_concentrating
+stomach_cancer <-- indigestion & heartburn & bloating & stomach_ache & difficulty_swallowing & vomiting
+thyroid_cancer <-- sore_throat & hoarseness & neck_fain
+tuberculosis <-- night_sweats & fever & loss_of_appetite & fatigue & coughing_blood & chest_pain
